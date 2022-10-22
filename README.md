@@ -1,2 +1,2 @@
-# mobilegamesuskun
+# gamesuskun
 Oyun Proje Dosyalarım
