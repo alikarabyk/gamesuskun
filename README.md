@@ -3,3 +3,7 @@ Tasarladığım Ve Kodladığım Oyunun Proje Dosyaları ve Notları. <br> | Not
 <hr>
 <img src="https://cdn.discordapp.com/attachments/976951736247926845/1037868010372874280/Screenshot_1.png" align="center"  width="1000" height="700">
 <hr>
+<br>
+<hr>
+<img src="https://cdn.discordapp.com/attachments/976951736247926845/1040466651109404682/Screenshot_3.png" align="center"  width="1000" height="700">
+<hr>
