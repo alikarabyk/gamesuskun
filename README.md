@@ -5,7 +5,7 @@ Tasarladığım Ve Kodladığım Oyunun Proje Dosyaları ve Notları. <br> | Not
  <a href="https://youtu.be/XGhxDt-RYVY" target="blank"> Video F1 </a> |   <a href="https://youtu.be/AdeLcPyToi0" target="blank"> Video F2 </a> |  
  <a href="https://disk.yandex.com.tr/d/PZmR_IFgEaatXg" target="blank"> Demo Versiyon V_1 </a> |
 <hr>
-<img src="[https://cdn.discordapp.com/attachments/976951736247926845/1037868010372874280/Screenshot_1.png](https://cdn.discordapp.com/attachments/976951736247926845/1037868010372874280/Screenshot_1.png?ex=6605fa68&is=65f38568&hm=06cd2d0bdebe2ebc3247053b1181c9022ee2b68db0cd7219c6dbaec6128c82df&)https://cdn.discordapp.com/attachments/976951736247926845/1037868010372874280/Screenshot_1.png?ex=6605fa68&is=65f38568&hm=06cd2d0bdebe2ebc3247053b1181c9022ee2b68db0cd7219c6dbaec6128c82df&"   width="1200" height="700">
+<img src="https://i.hizliresim.com/tmjs78m.png"   width="1200" height="700">
 
-<img src="https://cdn.discordapp.com/attachments/976951736247926845/1040466651109404682/Screenshot_3.png"   width="1950" height="650">
+<img src="https://i.hizliresim.com/5vrei6y.png"   width="1950" height="650">
 
